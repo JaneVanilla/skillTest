@@ -52,6 +52,12 @@ body {
     background: #2a70e2;
     border-radius: 50%;
 }
+.card__button span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -10px;
+}
 .transition {
     transition: 3s;
 }
